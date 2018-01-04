@@ -1,0 +1,419 @@
+[{
+		"title": "காம கதைகள்",
+		"drawable": "",
+		"submenu": "கதைகள்",
+		"iap": false,
+		"tabs": [{
+				"title": "புதியவை",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com"]
+			},
+			{
+				"title": "ஆண்டி",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"ஆண்டி"
+				]
+			},
+			{
+				"title": "வேலைக்காரி",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"வேலைக்காரி"
+				]
+			},
+			{
+				"title": "டீச்சர்",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"டீச்சர்"
+				]
+			},
+			{
+				"title": "விதவை",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"விதவை"
+				]
+			},
+			{
+				"title": "லெஸ்பியன்",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"லெஸ்பியன்"
+				]
+			},
+			{
+				"title": "மாமி",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"மாமி"
+				]
+			}
+		]
+	},
+	{
+		"title": "குடும்ப கதைகள்",
+		"drawable": "",
+		"submenu": "கதைகள்",
+		"iap": false,
+		"tabs": [{
+				"title": "அம்மா",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"அம்மா"
+				]
+			},
+			{
+				"title": "அக்கா",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"அக்கா"
+				]
+			},
+			{
+				"title": "தங்கை",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"தங்கை"
+				]
+			},
+			{
+				"title": "மனைவி",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"மனைவி"
+				]
+			},
+			{
+				"title": "மாமியார்",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"மாமியார்"
+				]
+			},
+			{
+				"title": "அண்ணி",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"அண்ணி"
+				]
+			},
+			{
+				"title": "அத்தை",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"அத்தை"
+				]
+			},
+			{
+				"title": "சித்தி",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"சித்தி"
+				]
+			},
+			{
+				"title": "கள்ளக்காதல்",
+				"provider": "wordpress",
+				"arguments": ["tamilstoriesfree.wordpress.com",
+					"கள்ளக்காதல்"
+				]
+			}
+		]
+	},
+	{
+		"title": "காமவெறி தளம்",
+		"drawable": "",
+		"submenu": "தளங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "ஜோடிகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"62"
+				]
+			},
+			{
+				"title": "குடும்ப கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"59"
+				]
+			},
+			{
+				"title": "இளம் பெண்கள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"58"
+				]
+			},
+			{
+				"title": "ஆண்டி கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"60"
+				]
+			},
+			{
+				"title": "லெஸ்பியன்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"63"
+				]
+			},
+			{
+				"title": "குரூப் கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"70"
+				]
+			},
+			{
+				"title": "சிறந்த கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"41"
+				]
+			},
+			{
+				"title": "தங்க்லிஷ்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"56"
+				]
+			},
+			{
+				"title": "செய்திகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"61"
+				]
+			}
+		]
+	},
+	{
+		"title": "தமிழ் செக்ஸ்",
+		"drawable": "",
+		"submenu": "தளங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "புதியவை",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"2"
+				]
+			},
+			{
+				"title": "காம கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"10"
+				]
+			},
+			{
+				"title": "தினமொரு பாகம்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"12"
+				]
+			},
+			{
+				"title": "ஆண்டி கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"11"
+				]
+			},
+			{
+				"title": "உறவுகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"5"
+				]
+			},
+			{
+				"title": "தமிழ் நடிகைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"14"
+				]
+			},
+			{
+				"title": "காம சூத்ரா",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"9"
+				]
+			},
+			{
+				"title": "தமிழ் டாக்டர்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"7"
+				]
+			}
+		]
+	},
+	{
+		"title": "காம கதைகள் ப்ளாக்",
+		"drawable": "",
+		"submenu": "தளங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "பகுதி-1",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+					"94"
+				]
+			},
+			{
+				"title": "பகுதி-2",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+					"100"
+				]
+			},
+			{
+				"title": "பகுதி-3",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+					"8"
+				]
+			},
+			{
+				"title": "பகுதி-4",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+					"88"
+				]
+			},
+			{
+				"title": "பகுதி-5",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+					"89"
+				]
+			}
+		]
+	},
+	{
+		"title": "செக்ஸ் ஸ்டோரி ப்ளாக்",
+		"drawable": "",
+		"submenu": "தளங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "பகுதி-1",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"26"
+				]
+			},
+			{
+				"title": "பகுதி-2",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"23"
+				]
+			},
+			{
+				"title": "பகுதி-3",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"2"
+				]
+			},
+			{
+				"title": "பகுதி-4",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"21"
+				]
+			},
+			{
+				"title": "பகுதி-5",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"32"
+				]
+			}
+		]
+	},
+	{
+		"title": "தமிழ் எக்ஸ் கதை",
+		"drawable": "",
+		"submenu": "தளங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "பகுதி-1",
+				"provider": "wordpress",
+				"arguments": ["https://tamilxkathai.com/wp-json/wp/v2/",
+					"70"
+				]
+			},
+			{
+				"title": "பகுதி-2",
+				"provider": "wordpress",
+				"arguments": ["https://tamilxkathai.com/wp-json/wp/v2/",
+					"1"
+				]
+			},
+			{
+				"title": "பகுதி-3",
+				"provider": "wordpress",
+				"arguments": ["https://tamilxkathai.com/wp-json/wp/v2/",
+					"110"
+				]
+			}
+		]
+	},
+	{
+		"title": "தமிழ்",
+		"drawable": "",
+		"submenu": "படங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "பகுதி-1",
+				"provider": "tumblr",
+				"arguments": ["tamilstoriesfree"]
+			},
+			{
+				"title": "பகுதி-2",
+				"provider": "wordpress",
+				"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+					"1"
+				]
+			}
+		]
+	},
+	{
+		"title": "ஆங்கிலம்",
+		"drawable": "",
+		"submenu": "படங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "புதியது",
+				"provider": "tumblr",
+				"arguments": ["teens-are-hott"]
+			},
+			{
+				"title": "அனைத்தும்",
+				"provider": "tumblr",
+				"arguments": ["bikinigirlsheaven"]
+			}
+		]
+	},
+	{
+		"title": "தமிழ்",
+		"drawable": "",
+		"submenu": "வீடியோ",
+		"iap": false,
+		"tabs": [{
+			"title": "",
+			"provider": "wordpress",
+			"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+				"13"
+			]
+		}]
+	}
+]
